@@ -1,0 +1,12 @@
+pylint
+pytest
+streamlit
+pandas
+numpy
+altair
+more-itertools
+streamlit-aggrid
+plotly_express
+requests
+streamlit-lottie
+datetime

@@ -1,0 +1,9 @@
+pylint
+pytest
+streamlit
+pandas
+numpy
+altair
+more-itertools
+streamlit-aggrid
+
